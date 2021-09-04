@@ -25,4 +25,4 @@ $ python manage.py runserver
 
 The application will be available at : localhost:8000
 
-
+MIT Licence

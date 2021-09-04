@@ -16,8 +16,8 @@ Youtube Downloader is a Python Web application built with Django.
 
 Install the dependencies and devDependencies and start the server.
 
-```sh
-$ git clone https://github.com/ranahaani/YouTube-Downloader.git
+```ssh
+$ https://github.com/sivaprassath99/Youtube_Video_downloader_Python.git
 $ cd Youtube-Downloader
 $ pip install -r requirements.txt
 $ python manage.py runserver
